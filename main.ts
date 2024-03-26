@@ -1,4 +1,4 @@
-
+// A simple calculator
   import inquirer from "inquirer";
   import prompt from "inquirer/lib/ui/prompt.js";
   let answer=await  inquirer.prompt([
